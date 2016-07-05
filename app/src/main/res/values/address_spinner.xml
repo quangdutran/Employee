@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="address_array">
+        <item>Ha Noi</item>
+        <item>Phu Tho</item>
+        <item>New York</item>
+        <item>Lisbon</item>
+    </string-array>
+</resources>
